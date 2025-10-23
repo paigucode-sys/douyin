@@ -7,7 +7,7 @@
 
 * **接口名称**：内容点赞操作（示例）
 * **请求方法**：`POST`
-* **接口地址**：`https://www-hj.douyin.com/aweme/v1/web/commit/item/digg/`
+* **接口地址**：`https://www-hj.douyin.com/aweme/v1/web/commit/item/digg/ 或者https://www.douyin.com/aweme/v1/web/commit/item/digg/`
 * **请求类型**：`application/x-www-form-urlencoded`
 * **编码格式**：UTF-8
 
